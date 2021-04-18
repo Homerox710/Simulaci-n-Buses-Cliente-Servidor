@@ -3,7 +3,7 @@
 ---
 
 - Este proyecto simula un día de operación de una ruta de buses de San José.
-- El proyecto lo realicé para practicar la estructura cliente-servidor y también los hilos y protocolos TCP y UDP.
+- El proyecto lo realicé para practicar la estructura cliente-servidor, protocolos TCP y UDP y también los hilos. 
 
 ---
 
